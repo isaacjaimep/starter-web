@@ -9,8 +9,8 @@ Sample website with plenty of files for demos
 
 
 
-## this is another subtile
+## This is another subtile
 
 djlskdjsldk
 
-###this is another level of
+### Tthis is another level of
