@@ -1,0 +1,2 @@
+git ls-files  display all the tracked files by git
+git stash solo only works for those files that are tracked by git ONLY so if you add one file that is not being tracked yet, this file wont be stashed
